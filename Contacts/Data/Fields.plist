@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>contactID</string>
+		<string>Contact ID</string>
+	</array>
+	<array>
+		<string>firstName</string>
+		<string>First Name</string>
+	</array>
+	<array>
+		<string>lastName</string>
+		<string>Last Name</string>
+	</array>
+	<array>
+		<string>phoneNumber</string>
+		<string>Phone Number</string>
+	</array>
+	<array>
+		<string>streetAddress1</string>
+		<string>Street Address 1</string>
+	</array>
+	<array>
+		<string>streetAddress2</string>
+		<string>Street Address 2</string>
+	</array>
+	<array>
+		<string>city</string>
+		<string>City</string>
+	</array>
+	<array>
+		<string>state</string>
+		<string>State</string>
+	</array>
+	<array>
+		<string>zipCode</string>
+		<string>Zip Code</string>
+	</array>
+	<array>
+		<string>deleteContact</string>
+		<string>DeleteContact</string>
+	</array>
+</array>
+</plist>
